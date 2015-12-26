@@ -1,9 +1,9 @@
-highlightjs Plugin for DokuWiki
+syntaxhighlightjs Plugin for DokuWiki
 
 Syntax Highlighter for DokuWiki with highlight.js
 
 All documentation for this plugin can be found at
-https://github.com/Posquit0/dokuwiki-plugin-highlightjs
+https://github.com/Posquit0/dokuwiki-plugin-syntaxhighlightjs
 
 If you install this plugin manually, make sure it is installed in
 lib/plugins/highlightjs/ - if the folder is called different it

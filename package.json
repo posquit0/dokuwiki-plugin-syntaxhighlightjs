@@ -1,0 +1,34 @@
+{
+  "name": "dokuwiki-plugin-syntaxhighlightjs",
+  "version": "1.0.0",
+  "description": "Syntax Highlighter for DokuWiki with highlight.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.5",
+    "gulp-minify-css": "^1.2.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/posquit0/dokuwiki-plugin-syntaxhighlightjs.git"
+  },
+  "keywords": [
+    "syntax",
+    "highlight",
+    "code",
+    "sourcecode",
+    "highlighter",
+    "dokuwiki"
+  ],
+  "author": "Posquit0.BJ <posquit0.bj@gmail.com> (http://www.posquit0.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/posquit0/dokuwiki-plugin-syntaxhighlightjs/issues"
+  },
+  "homepage": "https://github.com/posquit0/dokuwiki-plugin-syntaxhighlightjs#readme"
+}
